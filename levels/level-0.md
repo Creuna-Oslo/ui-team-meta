@@ -22,22 +22,40 @@ Tilsvarende ferdighetsnivå
 
 Gode skriftlige og muntlige norsk- og engelskkunnskaper
 
+- Må kunne kommunisere med kunder om systemer og med kollegaer om fag
+
 Grunnleggende forståelse for, og erfaring med klientsideprogrammering og -teknologi (HTML/CSS/JS)
 
-Grunnleggende forståelse for, og erfaring med kildekodehåndteringsverktøy som Git, SVN, Mercurial e.l.
+- Må kunne lage nettsider ved bruk av disse teknologiene og kunne forklare hva de er for noe og hvorfor vi trenger dem
 
 Grunnleggende forståelse for HTTP
 
+- Hva er det vanligste verbene og hva brukes de til?
+
 Grunnleggende forståelse for bruk av eksterne APIer over HTTP
+
+- Hva er `fetch` og hvordan brukes det?
+- Hva er CORS og hvorfor finnes det?
+- Hva er en proxy og hvorfor brukes det?
 
 Grunnleggende forståelse for pakkesystemer og avhengighetshåndtering
 
+- Hvilken verdi tilfører disse produksjonsprosessen?
+
 Evne til å omsette behov (brukerhistorer o.l.) til funksjonalitet (kode)
 
-Grunnleggende forståelse for metodikk som Scrum, Kanban o.l.
+- Må kunne tilføre et system ny, eller endre eksisterende, funksjonalitet
 
 ## Personlige egenskaper
 
 Evne til samarbeid
 
+- Ved, for eksempel, parprogrammering, dev designs, og pull requests
+
 Evne til å få konstruktiv kritikk
+
+- I, for eksempel, parprogrammering, dev designs, og pull requests
+
+Tilegner seg relevant kunnskap på egenhånd
+
+- Må kunne løse en oppgave der man ikke nødvendigvis kan alt som trengs på forhånd

@@ -6,7 +6,7 @@ Seniorbrukergrensesnittutvikler / Senior User Interface Developer
 
 ## Beskrivelse
 
-Den ansatte skal som regel jobbe i prosjekt sammen med én eller flere andre brukergrensesnittutviklere, og skal hjelp og veilede disse.
+Den ansatte skal som regel jobbe i prosjekt sammen med én eller flere andre brukergrensesnittutviklere, og skal hjelpe og veilede disse.
 
 Det forventes at den ansatte skal kunne planlegge og gjennomføre utvikling av gjenbrukbare enkeltkomponenter og komponentsystemer.
 
@@ -22,10 +22,17 @@ Det forventes at den ansatte kan brukes som mentor.
 
 Én eller flere spesialiseringer (animasjon, universell utforming, verktøy, prosess etc.)
 
-Selvgående i prosjekter
+_eller_
+
+Faglig bredde
 
 ## Personlige egenskaper
 
-Tilegner seg relevant kunnskap på egenhånd
+Selvgående i prosjekter
+
+- Ser behov og kan beskrive disse
+- Skaper i større grad egen jobb, eller jobb til andre
 
 Evne til å se andre løsninger enn de foreslåtte
+
+- I, for eksempel, dialog med kunde eller andre i prosjektet

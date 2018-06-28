@@ -20,7 +20,11 @@ Det forventes at den ansatte skal kunne dele fagkunnskap gjennom presentasjoner,
 
 Evne til å starte nye prosjekter
 
+- Må kunne sette opp en kodebase og en produksjonsprosess slik at en selv og andre kan utvikle
+
 Erfaring med oppsett og tilpasning av verktøy og systemer i bruk i produksjonsprosessen
+
+- Må kunne endre produksjonsprosessen for å tilpasse den endrede/andre behov
 
 God forståelse for HTTP
 
