@@ -12,7 +12,11 @@ Det forventes deltagelse i planlegging og gjennomføring av utvikling av gjenbru
 
 ## Erfaring
 
-Relevant utdannelse på minimum bachelornivå
+Relevant utdannelse på bachelornivå
+
+_eller_
+
+Tilsvarende ferdighetsnivå
 
 ## Faglig kompetanse
 
