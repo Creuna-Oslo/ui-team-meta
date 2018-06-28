@@ -1,6 +1,6 @@
 # Erfarne brukergrensesnittutviklere
 
-## Vi søker erfarne brukergrensesnittutviklere til vårt spesialistteam.
+## Vi søker erfarne brukergrensesnittutviklere til vårt spesialistteam
 
 _[START PROPAGANDA]_
 
