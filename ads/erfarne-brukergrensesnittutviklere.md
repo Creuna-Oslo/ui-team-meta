@@ -24,7 +24,7 @@ I Creuna skaper vi opplevelser – av det digitale slaget, vel å merke, men det
 
 Ellers drikker vi store mengder god kaffe blant 120 medkolleger. Innimellom slår vi også på discokulen, har game nights, en huspoet til de større anledninger, og en helt egen robotresepsjonist. Vi liker å tro at vi er en smeltedigel av smart tenkning, kreativitet og teknologi. Hvis du også liker å være i en smeltedigel, og kan si _brukergrensesnittutviklerteam_ fem ganger uten å krølle tungen, vil vi høre fra deg!
 
-Om det ble litt krøll på tungen er det ikke så farlig, for i Creuna er vi også svært opptatte av læring og videreutvikling. Vi drar på meetups og konferanser, og arrangerer techlab og fagkvelder. Her vil du vil alltid finne likesinnede du kan sparre med rundt konkrete og abstrakte løsninger og utfordringer. Eventuelt ikke-likesinnede, som egentlig er enda bedre.
+Om det ble litt krøll på tungen er det ikke så farlig, for i Creuna er vi også svært opptatte av læring og videreutvikling. Vi drar på meetups og konferanser, og arrangerer techlab og fagkvelder. Her vil du alltid finne likesinnede du kan sparre med rundt konkrete og abstrakte løsninger og utfordringer. Eventuelt ikke-likesinnede, som egentlig er enda bedre.
 
 _[SLUTT PROPAGANDA, SLUTT]_
 
