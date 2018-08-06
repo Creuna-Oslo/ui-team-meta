@@ -24,7 +24,7 @@ Relevant erfaring fra forrige nivå
 
 Grunnleggende forståelse for, og erfaring med kildekodehåndteringsverktøy som Git, SVN, Mercurial e.l.
 
-- Må kunne bruke de mest vanlige kommandoene og vite hva de gjør (f.eks. `git [clone, checkout, branch, commit, push, pull, merge]`)
+- Må kunne bruke de mest vanlige kommandoene og vite hva de gjør (f.eks. `git [clone, checkout, branch, commit, push, pull, merge, rebase]`)
 
 Grunnleggende forståelse for verktøy og systemer i bruk i produksjonsprosessen (bygging, testing, deployment, hosting), f.eks. Webpack, Babel, Sass, PostCSS, Chimp, Travis, Azure.
 
