@@ -30,6 +30,11 @@ God forståelse for HTTP
 
 God forståelse for bruk av eksterne APIer over HTTP
 
+Må kunne forklare og bruke Hypermedia As The Engine Of Application State (HATEOAS)
+
+- Er dette en god idé
+- Finnes det alternativer
+
 Veldig god forståelse for, og erfaring med klientsideprogrammering og -teknologi (HTML/CSS/JS)
 
 Veldig god kompetanse i relevante språk, bibliotek og rammeverk (React, Sass osv.)
