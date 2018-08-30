@@ -81,6 +81,6 @@ We must be able to continously deliver the system. This delivery does not necess
 
 If time tracking is required, there must exist a working way to do this.
 
-Members of a project that have no specific issues to work on, but still have time allocated to the project, must be able to perform work that is of value for the project. Time tracking of these activities must be possible.
+Members of a project that have no specific issues to work on, but still have time allocated to the project, must be able to perform work that is of value for the project. If required, time tracking of these activities must be possible.
 
 Ideally, members should not be required to track their own time as this is a concern that can be solved in a higher level relationship (f.ex. between representatives form Creuna and the customer).
