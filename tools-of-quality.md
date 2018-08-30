@@ -84,3 +84,7 @@ If time tracking is required, there must exist a working way to do this.
 Members of a project that have no specific issues to work on, but still have time allocated to the project, must be able to perform work that is of value for the project. If required, time tracking of these activities must be possible.
 
 Ideally, members should not be required to track their own time as this is a concern that can be solved in a higher level relationship (f.ex. between representatives form Creuna and the customer).
+
+## Transparency
+
+The customer is a part of the team. Therefore, if you "can't" say something to the customer, it does not exist for the team. We will not be forced to keep secrets from our own team members.
