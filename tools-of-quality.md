@@ -87,4 +87,8 @@ Ideally, members should not be required to track their own time as this is a con
 
 ## Transparency
 
+To ensure a wholesome and productive environment, we will be fully transparent with the team.
+
 The customer is a part of the team. Therefore, if you "can't" say something to the customer, it does not exist for the team. We will not be forced to keep secrets from our own team members.
+
+In the same spirit, we will not do any double bookkeeping of issues, statuses, time etc. If this is "needed", we will have no part in it and the work will fall to whoever feels that this is "needed".
