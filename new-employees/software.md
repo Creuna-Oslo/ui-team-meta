@@ -7,6 +7,10 @@ This is a list of software that was suggested to new employees in August 2018. A
 * [Source tree](https://www.sourcetreeapp.com/)
 * [Hyper](https://hyper.is/)
 * [Slack](https://slack.com/)
+* [fzf](https://github.com/junegunn/fzf)
+* [Nix](https://nixos.org/nix/download.html)
+* [fasd](https://github.com/clvv/fasd)
+
 
 
 ## OSX ##
@@ -18,3 +22,6 @@ This is a list of software that was suggested to new employees in August 2018. A
 
 ## Windows ##
 * Visual Studio
+
+## Not really software ##
+* [Connection to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
