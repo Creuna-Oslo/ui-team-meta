@@ -67,7 +67,7 @@ If an issue does not exist on the issue tracker, it does not (for the purposes o
 
 Work is derived from issues on the issue tracker by members suited to perform the work, not prescribed to specific members.
 
-We make no demands with regards to the exact type of issue tracker, but it must be compatible with the overall project workflow. JIRA, Trello, a whiteboard, Post-it Notes are all fine in different circumstances.
+We make no demands with regards to the exact type of issue tracker, but it must be compatible with the overall project workflow. GitHub, Jira, Trello, a whiteboard, Post-it Notes are all fine in different circumstances.
 
 ## Continuous Integration
 
