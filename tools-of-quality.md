@@ -4,40 +4,13 @@ Our working environment should help us do high quality work because of it, rathe
 
 This document attempts to be an overview of what we need and want in such an environment, without prescribing concrete products. Preferences will be noted.
 
-## 📚 Documentation
+## 👀 Transparency
 
-A project must be documented. This includes the location of the code repository, and the location of required content (for example databases).
+To ensure a wholesome and productive environment, we _must and will_ be fully transparent with the team.
 
-We strongly prefer that this is done in an accessible to us customer owned system.
+The customer is a part of the team. Therefore, if you "can't" say something to the customer, it does not exist for the team. We will not be forced to keep secrets from our own team members.
 
-## 💾 Source Control
-
-All source code must live in an accessible repository. Source code that does not, does not (for the purposes of the system) exist and must not be required for an application to work.
-
-We strongly prefer [Git](https://www.git-scm.com) hosted on an accessible to us customer owned system.
-
-## 👩‍💻 Development
-
-A project must have a defined strategy for change management. Scrum, Kanban etc. are well defined strategies. Others exist. We do not prescribe any one strategy, but lean heavily towards more agile strategies (f.ex. Kanban over Scrum).
-
-A strategy for branching, approving, merging code etc. must be in place.
-
-Popular strategies include [trunk based development](https://trunkbaseddevelopment.com), [pair programming](https://en.wikipedia.org/wiki/Pair_programming), [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/).
-
-A requirement for quality _of any sort_ is that at least two people must have the opportunity to discuss and review work.
-
-Popular strategies for this include [dev designs](https://hackernoon.com/development-driven-development-75c01b2afca1), [code reviews](https://en.wikipedia.org/wiki/Code_review).
-
-## 👩‍🏫 Onboarding
-
-Onboarding a developer must be as easy as:
-
-1. Being given access to required sources (documentation, repository etc.)
-2. Pulling, aquiring dependencies, building, running the application(s)
-
-Point two must be documented in the repository itself (usually in `README.md`).
-
-We strongly urge system maintainers to [AUTOMATE ALL THE THINGS](https://knowyourmeme.com/memes/all-the-things) so that these steps can be executed as fast and error free as possible.
+In the same spirit, we will not do any double bookkeeping of issues, statuses, time etc. If this is "needed", we will have no part in it and the work will fall to whoever feels that this is "needed".
 
 ## 👩‍👩‍👦‍👦 Explicit Roles and Mandates
 
@@ -71,6 +44,41 @@ Work is derived from issues on the issue tracker by members suited to perform th
 
 We make no demands with regards to the exact type of issue tracker, but it must be compatible with the overall project workflow. [GitHub](https://github.com), [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com), a [whiteboard](https://en.wikipedia.org/wiki/Whiteboard), [Post-it Notes](https://www.post-it.com/) are all fine in different circumstances.
 
+## 💾 Source Control
+
+All source code must live in an accessible repository. Source code that does not, does not (for the purposes of the system) exist and must not be required for an application to work.
+
+We strongly prefer [Git](https://www.git-scm.com) hosted on an accessible to us customer owned system.
+
+## 📚 Documentation
+
+A project must be documented. This includes the location of the code repository, and the location of required content (for example databases).
+
+We strongly prefer that this is done in an accessible to us customer owned system.
+
+## 👩‍🏫 Onboarding
+
+Onboarding a developer must be as easy as:
+
+1. Being given access to required sources (documentation, repository etc.)
+2. Pulling, aquiring dependencies, building, running the application(s)
+
+Point two must be documented in the repository itself (usually in `README.md`).
+
+We strongly urge system maintainers to [AUTOMATE ALL THE THINGS](https://knowyourmeme.com/memes/all-the-things) so that these steps can be executed as fast and error free as possible.
+
+## 👩‍💻 Development
+
+A project must have a defined strategy for change management. Scrum, Kanban etc. are well defined strategies. Others exist. We do not prescribe any one strategy, but lean heavily towards more agile strategies (f.ex. Kanban over Scrum).
+
+A strategy for branching, approving, merging code etc. must be in place.
+
+Popular strategies include [trunk based development](https://trunkbaseddevelopment.com), [pair programming](https://en.wikipedia.org/wiki/Pair_programming), [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/).
+
+A requirement for quality _of any sort_ is that at least two people must have the opportunity to discuss and review work.
+
+Popular strategies for this include [dev designs](https://hackernoon.com/development-driven-development-75c01b2afca1), [code reviews](https://en.wikipedia.org/wiki/Code_review).
+
 ## 🏗 Continuous Integration
 
 We must be able to continously integrate changes. This is "easy" given a defined process for change and a strategy for managing code changes.
@@ -86,11 +94,3 @@ If time tracking is required, there must exist a working way to do this.
 Members of a project that have no specific issues to work on, but still have time allocated to the project, must be able to perform work that is of value for the project. If required, time tracking of these activities must be possible.
 
 Ideally, members should not be required to track their own time as this is a concern that can be solved in a higher level relationship (f.ex. between representatives form Creuna and the customer).
-
-## 👀 Transparency
-
-To ensure a wholesome and productive environment, we _must and will_ be fully transparent with the team.
-
-The customer is a part of the team. Therefore, if you "can't" say something to the customer, it does not exist for the team. We will not be forced to keep secrets from our own team members.
-
-In the same spirit, we will not do any double bookkeeping of issues, statuses, time etc. If this is "needed", we will have no part in it and the work will fall to whoever feels that this is "needed".
