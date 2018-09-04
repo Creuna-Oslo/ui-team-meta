@@ -28,7 +28,7 @@ A requirement for quality of any sort is that at least two people must have the 
 
 ## Onboarding
 
-Onboarding must be as easy as:
+Onboarding a developer must be as easy as:
 
 1. Being given access to required sources (documentation, repo etc.)
 2. Pulling, aquiring dependencies, building, running the application(s)
