@@ -2,19 +2,19 @@
 
 Our working environment should help us do high quality work because of it, rather than in spite of it.
 
-This document attempts to be an overview of what we need and want in such an environment, without prescribing concrete products.
+This document attempts to be an overview of what we need and want in such an environment, without prescribing concrete products. Preferences will be noted.
 
 ## 📚 Documentation
 
-A project must be documented. This includes the location of the code repository, and the location of required content (f.ex. databases).
+A project must be documented. This includes the location of the code repository, and the location of required content (for example databases).
 
-We prefer that this is done in an accessible to us customer owned system.
+We strongly prefer that this is done in an accessible to us customer owned system.
 
 ## 💾 Source Control
 
 All source code must live in an accessible repository. Source code that does not, does not (for the purposes of the system) exist and must not be required for an application to work.
 
-We strongly prefer Git hosted on an accessible to us customer owned system.
+We strongly prefer [Git](https://www.git-scm.com) hosted on an accessible to us customer owned system.
 
 ## 👩‍💻 Development
 
@@ -22,36 +22,38 @@ A project must have a defined strategy for change management. Scrum, Kanban etc.
 
 A strategy for branching, approving, merging code etc. must be in place.
 
-Popular strategies include "just" PRs, pair programming, GitFlow.
+Popular strategies include [trunk based development](https://trunkbaseddevelopment.com), [pair programming](https://en.wikipedia.org/wiki/Pair_programming), [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/).
 
-A requirement for quality of any sort is that at least two people must have the opportunity to discuss and review work.
+A requirement for quality _of any sort_ is that at least two people must have the opportunity to discuss and review work.
+
+Popular strategies for this include [dev designs](https://hackernoon.com/development-driven-development-75c01b2afca1), [code reviews](https://en.wikipedia.org/wiki/Code_review).
 
 ## 👩‍🏫 Onboarding
 
 Onboarding a developer must be as easy as:
 
-1. Being given access to required sources (documentation, repo etc.)
+1. Being given access to required sources (documentation, repository etc.)
 2. Pulling, aquiring dependencies, building, running the application(s)
 
 Point two must be documented in the repository itself (usually in `README.md`).
 
+We strongly urge system maintainers to [AUTOMATE ALL THE THINGS](https://knowyourmeme.com/memes/all-the-things) so that these steps can be executed as fast and error free as possible.
+
 ## 👩‍👩‍👦‍👦 Explicit Roles and Mandates
 
-A project's mandates must be defined.
+We must know who is responsible for what. Therefore:
 
-A project's roles must be defined.
+- Mandates must be defined.
+- Roles must be defined.
+- Roles must have one or more mandates.
+- Members must be defined.
+- Members must have one or more roles.
 
-Roles must have one or more defined mandates.
+There must also exist a role with the mandate to define roles and mandates so that eventual missing or inconsistent roles and mandates can be (re)defined.
 
-A project's members must be defined.
+Creuna has this already, including several defined roles and mandates, but the defined roles and mandates might not (but should) be sufficient for most projects.
 
-Members must have one or more defined roles.
-
-There must exist a role with a mandate to define roles and mandates so that eventual missing or inconsistent roles and mandates can be (re)defined.
-
-Creuna has this already, including several defined roles and mandates, but the defined roles and mandates might not (but should) be sufficient for all projects.
-
-It's perfectly cromulent to not define extra roles or mandates.
+It's perfectly cromulent to not define extra roles or mandates, and also grow the team, mandates, and roles organically as development progresses.
 
 ## 📝 Issue Tracking
 
@@ -63,11 +65,11 @@ The status of an issue must be visible on the issue itself, and reflect the actu
 
 This means that the overall state of the system is visible and knowable. E-mail, calls and other private messages are therefore not an acceptable form of issue tracking.
 
-If an issue does not exist on the issue tracker, it does not (for the purposes of the system) exist.
+If an issue does not exist on the issue tracker, it does not (for the purposes of the project or system) exist.
 
 Work is derived from issues on the issue tracker by members suited to perform the work, not prescribed to specific members.
 
-We make no demands with regards to the exact type of issue tracker, but it must be compatible with the overall project workflow. GitHub, Jira, Trello, a whiteboard, Post-it Notes are all fine in different circumstances.
+We make no demands with regards to the exact type of issue tracker, but it must be compatible with the overall project workflow. [GitHub](https://github.com), [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com), a [whiteboard](https://en.wikipedia.org/wiki/Whiteboard), [Post-it Notes](https://www.post-it.com/) are all fine in different circumstances.
 
 ## 🏗 Continuous Integration
 
@@ -87,7 +89,7 @@ Ideally, members should not be required to track their own time as this is a con
 
 ## 👀 Transparency
 
-To ensure a wholesome and productive environment, we will be fully transparent with the team.
+To ensure a wholesome and productive environment, we _must and will_ be fully transparent with the team.
 
 The customer is a part of the team. Therefore, if you "can't" say something to the customer, it does not exist for the team. We will not be forced to keep secrets from our own team members.
 
