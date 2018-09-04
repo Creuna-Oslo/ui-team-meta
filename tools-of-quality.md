@@ -12,6 +12,22 @@ The customer is a part of the team. Therefore, if you "can't" say something to t
 
 In the same spirit, we will not do any double bookkeeping of issues, statuses, time etc. If this is "needed", we will have no part in it and the work will fall to whoever feels that this is "needed".
 
+## 💬 Language
+
+We strive to be as clear and concise as possible.
+
+For the sake of clarity we forgo the use of abbreviations unless these are widely understood (we will, for example, use `URL` instead of `Uniform Resource Locator`).
+
+We will write code, documentation, issues etc. in US English, as this is the language of the code we write, and makes it possible to include those not proficient in Norwegian as members of a team.
+
+If the customer demands that some of these things be done in Norwegian, an explicit choice must be made to satisfy that demand.
+
+Certain circumstances exist where mixing of languages is preferred, such as when a domain is only easily expressed in a given language.
+
+Regardless of language, we will strive to write and speak in a gramatically correct manner in order to avoid misunderstandings.
+
+There will be instances in which technical language, that is only understood by a person with sufficient proficiency, must be used.
+
 ## 👩‍👩‍👦‍👦 Explicit Roles and Mandates
 
 We must know who is responsible for what. Therefore:
