@@ -1,22 +1,22 @@
-# Tools of Quality
+# 🛠 Tools of Quality
 
 Our working environment should help us do high quality work because of it, rather than in spite of it.
 
 This document attempts to be an overview of what we need and want in such an environment, without prescribing concrete products.
 
-## Documentation
+## 📚 Documentation
 
 A project must be documented. This includes the location of the code repository, and the location of required content (f.ex. databases).
 
 We prefer that this is done in an accessible to us customer owned system.
 
-## Source Control
+## 💾 Source Control
 
 All source code must live in an accessible repository. Source code that does not, does not (for the purposes of the system) exist and must not be required for an application to work.
 
 We strongly prefer Git hosted on an accessible to us customer owned system.
 
-## Development
+## 👩‍💻 Development
 
 A project must have a defined strategy for change management. Scrum, Kanban etc. are well defined strategies. Others exist. We do not prescribe any one strategy, but lean heavily towards more agile strategies (f.ex. Kanban over Scrum).
 
@@ -26,7 +26,7 @@ Popular strategies include "just" PRs, pair programming, GitFlow.
 
 A requirement for quality of any sort is that at least two people must have the opportunity to discuss and review work.
 
-## Onboarding
+## 👩‍🏫 Onboarding
 
 Onboarding a developer must be as easy as:
 
@@ -35,7 +35,7 @@ Onboarding a developer must be as easy as:
 
 Point two must be documented in the repository itself (usually in `README.md`).
 
-## Explicit Roles and Mandates
+## 👩‍👩‍👦‍👦 Explicit Roles and Mandates
 
 A project's mandates must be defined.
 
@@ -53,7 +53,7 @@ Creuna has this already, including several defined roles and mandates, but the d
 
 It's perfectly cromulent to not define extra roles or mandates.
 
-## Issue Tracking
+## 📝 Issue Tracking
 
 A way to track issues must exist.
 
@@ -69,15 +69,15 @@ Work is derived from issues on the issue tracker by members suited to perform th
 
 We make no demands with regards to the exact type of issue tracker, but it must be compatible with the overall project workflow. GitHub, Jira, Trello, a whiteboard, Post-it Notes are all fine in different circumstances.
 
-## Continuous Integration
+## 🏗 Continuous Integration
 
 We must be able to continously integrate changes. This is "easy" given a defined process for change and a strategy for managing code changes.
 
-## Continuous Delivery
+## 📦 Continuous Delivery
 
 We must be able to continously deliver the system. This delivery does not necessarily have to automatically be deployed to production, but this capability must exist.
 
-## Time Tracking
+## ⏱ Time Tracking
 
 If time tracking is required, there must exist a working way to do this.
 
@@ -85,7 +85,7 @@ Members of a project that have no specific issues to work on, but still have tim
 
 Ideally, members should not be required to track their own time as this is a concern that can be solved in a higher level relationship (f.ex. between representatives form Creuna and the customer).
 
-## Transparency
+## 👀 Transparency
 
 To ensure a wholesome and productive environment, we will be fully transparent with the team.
 
