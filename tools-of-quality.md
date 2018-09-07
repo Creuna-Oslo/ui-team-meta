@@ -56,7 +56,7 @@ This means that the overall state of the system is visible and knowable. E-mail,
 
 If an issue does not exist on the issue tracker, it does not (for the purposes of the project or system) exist.
 
-Work is derived from issues on the issue tracker by members suited to perform the work, not prescribed to specific members.
+Work is derived from issues on the issue tracker. Team members suited to perform the work then assign themselves work instead of work being prescribed to specific members, creating a pull based workflow instead of a push based one. This eliminates administration of who does what, and removes a potential bottleneck, freeing time for other activities.
 
 We make no demands with regards to the exact type of issue tracker, but it must be compatible with the overall project workflow. [GitHub](https://github.com), [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com), a [whiteboard](https://en.wikipedia.org/wiki/Whiteboard), [Post-it Notes](https://www.post-it.com/) are all fine in different circumstances.
 
