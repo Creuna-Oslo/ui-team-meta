@@ -37,7 +37,7 @@ The experience can be made better with this Chrome [plugin](https://github.com/C
 There is some good instruction videos in the workplace [Unit4 Group](https://creuna.facebook.com/groups/1056335684500691/videos/). The information for registrate your hours for diffrent projects is usually given by the project leader. 
 
 ## Access cards and the alarm ##
-You have most likely got an access card and a code for that card. Remember that code. You will need that code if you arrive early or work late. <!--check the times and add--> After 23.00 and in the weekends the alarm is active in the office. If you use your card at the card reader the alarm will be off for 3 hours. If the alarm starts you will have to call Nokas on 02580 to deactivate it. You will have to give the password to Nokas. By obvious reasons I will not print the password here.. 
+You have most likely got an access card and a code for that card. Remember that code. You will need that code if you arrive early (before 8.00)or work late(after 16.00).  After 23.00 and in the weekends the alarm is active in the office. If you use your card at the card reader the alarm will be off for 3 hours. If the alarm starts you will have to call Nokas on 02580 to deactivate it. You will have to give the password to Nokas. By obvious reasons I will not print the password here.. 
 
 ## Very important people, and where to find them ##
 
@@ -47,12 +47,28 @@ You have most likely got an access card and a code for that card. Remember that 
 * Rolf (head of Tech) - His place is located almost in the middle of the office.
 <!--Other person that should be here?-->
 
+## Azure DevOps ##
+Earlier called  Visual Studio Team Services or VSTS for short.
+A Microsoft service that delivers tools for project control such as tasks, backlogs and registrations for hours. It is also used for hosting code for most projects.
+Log in at Creuna part at https://creuna.visualstudio.com/. 
+
+## Confluence ##
+A service from Attlassian...
+
+## Where to find information ##
+Most information is shared on [dropbox](https://creuna.onelogin.com/login). Log in with your Creuna username and password. 
+There is also a file server where some older documents are stored. To access it 
+
+<!--
+## Jira ##
+Do anyone use Jira? Can someone that use it fill something about it?
+-->
 ## Coffee and toiletts ##
 
 The majority of the Creuna employees agree that the coffee in the canteen is the best coffee in the office. <br>
 Other sources of caffeine is the coffe machine in the entrence or the hidden coffee machine. The hidden coffee machine you can find beneath the stairs to the second mezzanine. <br>
 If your want a cup of really good coffee Creuna employees have discount on all coffee at [CaféRo](https://www.cafero.no/) located by the tramstop. Remeber to tell them "Bedriftskafe Creuna" - **before** ordering. <br>
-There is alot of toliletts in the office, take your time to find your favorite. The most hidden pearl among those is the one close to the door to Total Reform.<!--Hvwe to be updated when the new tenant moves in--> Most toiletts are unisex, with the exceptions of the on in the wardrobes
+There is alot of toliletts in the office, take your time to find your favorite. The most hidden pearl among those is the one close to the door to Total Reform.<!--Have to be updated when the new tenant moves in--> Most toiletts are unisex, with the exceptions of the on in the wardrobes
 (most likely becouse those also containse showers).  
 
 ## Recreation ##
@@ -61,7 +77,6 @@ Need a break from that impossible bug? There is nice tings to do here in the off
 Feel like having a challenging disscusion? Try to discuss politics with Pepper, he is usually hanging around next to Lines place in the entrance. Already bored with Pepper? Why not invite a co-worker to take a coffee on the '70s mezzanine? <br>
 Want to feel the sun on your face? or maybe you belong to the nearly extinct species, the smokers? There is a little balcony on the side of the office building. Just go to the right by the award shelf and the door out is after the entrance to the architect firm. Remeber to bring your access card or you will be locked out. 
 <!--Other things?-->
-
 
 
 
