@@ -36,8 +36,6 @@ All employees in Creua will have to endure registration of their work hours in U
 The experience can be made better with this Chrome [plugin](https://github.com/Creuna-Oslo/Unit4Enhancements). 
 There is some good instruction videos in the workplace [Unit4 Group](https://creuna.facebook.com/groups/1056335684500691/videos/). The information for registrate your hours for diffrent projects is usually given by the project leader. 
 
-## Access cards and the alarm ##
-You have most likely got an access card and a code for that card. Remember that code. You will need that code if you arrive early (before 8.00)or work late(after 16.00).  After 23.00 and in the weekends the alarm is active in the office. If you use your card at the card reader the alarm will be off for 3 hours. If the alarm starts you will have to call Nokas on 02580 to deactivate it. You will have to give the password to Nokas. By obvious reasons I will not print the password here.. 
 
 ## Very important people, and where to find them ##
 
@@ -53,7 +51,7 @@ A Microsoft service that delivers tools for project control such as tasks, backl
 Log in at Creuna part at https://creuna.visualstudio.com/. 
 
 ## Confluence ##
-A service from Attlassian...
+A service from Attlassian... <!--what more to say? I dont even know if I have access..-->
 
 ## Where to find information ##
 Most information is shared on [dropbox](https://creuna.onelogin.com/login). Log in with your Creuna username and password. 
