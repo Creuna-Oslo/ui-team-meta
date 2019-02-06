@@ -39,5 +39,7 @@ This is an editor a lot of people use
 ## Windows ##
 * Visual Studio
 
+* [https://chocolatey.org/install](Chocolatey) - A package manager for windows, like brew
+
 ## Not really software ##
 * [Connection to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
