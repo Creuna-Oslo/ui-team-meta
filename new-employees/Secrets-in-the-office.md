@@ -36,7 +36,7 @@ All employees in Creuna will have to endure registration of their work hours in 
 - Line - She knows the where, when, who and why of the entire office. You can usually find her on her place right in front of the main entrance.
 - Marius Eple (Head of the IT department) - Grant wishes for hardware, licenses and fix everything connected to electricity. Usually to be found in the IT department.
 - Pelle (Pappa) - Can most often be found on his place beneath the Jolly Roger flag.
-- Rolf (head of Tech) - His place is located almost in the middle of the office.
+- Marius (head of Tech) - His place is located almost in the middle of the office.
 
 ## Azure DevOps
 
