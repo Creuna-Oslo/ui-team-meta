@@ -11,13 +11,13 @@ Do you have a wish for special hardware or long for a license for a nice program
 
 Of course everyone have an email. Of course no one sends emails (except for call to meetings). Most of all internal communication is handled on Slack. It is highly recommended to download both on desktop and cellphone. Join the creuna-no.slack.com team by signing in with your Creuna username. Channels that might be good to join:
 
-- #creuna_fredagspils
 - #frontend
-- #developers
-- #creuna-github
+- #no-frontend
+- #no-tech-employees
 - #random
+- #tech
 
-Of course you also need to join the #team-ui, but this is a locked channel so you will need an invitation from one of your fellow team members, or Pappa himself. There is a lot of not-so-serous stuff going on on Slack, but don't think you can turn of all notifications and ignore it. A lot of important information is also passed on Slack. If you don't pay attention to Slack you might find out that you don't know where that important meeting moved or that someone can help you with a problem. Also, you might miss cake time.
+Of course you also need to join the no-frontend, but this is a locked channel so you will need an invitation from one of your fellow team members, or Pappa himself. There is a lot of not-so-serous stuff going on on Slack, but don't think you can turn of all notifications and ignore it. A lot of important information is also passed on Slack. If you don't pay attention to Slack you might find out that you don't know where that important meeting moved or that someone can help you with a problem. Also, you might miss cake time.
 
 You should also join workplace. Sign in with your Creuna username and password. Take a bit of time and find good groups to follow. Some tips are:
 
